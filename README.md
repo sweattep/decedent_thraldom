@@ -8,3 +8,8 @@
 ## SSA
 * https://secure.ssa.gov/poms.nsf/lnx/0501110515NY
 * https://www.ssa.gov/OP_Home/handbook/handbook.03/handbook-0326.html
+
+## Retirement Insurance
+* https://www.irs.gov/retirement-plans/apply-for-a-determination-letter-quality-assurance-review
+* https://www.irs.gov/help/ita/are-the-life-insurance-proceeds-i-received-taxable
+* https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-beneficiary
